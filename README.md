@@ -1,2 +1,1 @@
-"# ChatBot_Telegram-DungeonMasterLabsBot" 
-"# ChatBot_Telegram-DungeonMasterLabsBot" 
+This repository contains the source code of the MasterLabs Telegram project. It is designed for students who are ready to solve their problems with 1C lab papers by purchasing the whole set of ready-made solutions in this chatbot. Link to the project: https://t.me/MasterLabs_bot
